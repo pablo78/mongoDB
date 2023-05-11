@@ -3,3 +3,5 @@ https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-n
 https://www.zendesk.com.mx/blog/cluster-que-es/
 https://studio3t.com/
 https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode
+https://docs.docker.com/desktop/install/windows-install/
+https://hub.docker.com/
